@@ -1,0 +1,1052 @@
+{
+  "conversations": [
+  {
+  "id": 2,
+  "name": "rtyyyyy",
+  "picture": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-70x70.png",
+  "messagefromtheuser": [
+  "hello"
+  ],
+  "messagetotheuser": [
+  "ouais bg",
+  "bien ?",
+  "fd",
+  "er",
+  "test"
+  ]
+  },
+  {
+  "id": 3,
+  "name": "nizzi28",
+  "picture": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-70x70.png",
+  "messagefromtheuser": [
+  "hello"
+  ],
+  "messagetotheuser": [
+  "Salfdsdsf",
+  "nizzi28 le bg",
+  "fdsdfs"
+  ]
+  },
+  {
+  "id": 4,
+  "name": "THEBIG_LS",
+  "picture": "https://m.media-amazon.com/images/I/51z10h+yz1L.jpg",
+  "messagefromtheuser": [
+  "bonjourrr"
+  ],
+  "messagetotheuser": []
+  },
+  {
+  "id": 5,
+  "name": "Neiizze",
+  "picture": "https://m.media-amazon.com/images/I/51VrtdGD-iL.jpg",
+  "messagefromtheuser": [],
+  "messagetotheuser": [
+  "Salut kavo",
+  "désolé j'avais pas vu",
+  "qu'est ce qu'il y a ?"
+  ]
+  },
+  {
+  "id": 6,
+  "name": "BrtVids",
+  "picture": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-70x70.png",
+  "messagefromtheuser": [
+  "tes boooooooo",
+  "pfdsm^fd"
+  ],
+  "messagetotheuser": []
+  },
+  {
+  "id": 7,
+  "name": "Kares",
+  "picture": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-70x70.png",
+  "messagefromtheuser": [
+  "suis moi sur youtube stp c'est sportcx"
+  ],
+  "messagetotheuser": []
+  },
+  {
+  "id": 9,
+  "name": "Krzept8",
+  "picture": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-70x70.png",
+  "messagefromtheuser": [],
+  "messagetotheuser": []
+  }
+  ],
+  "games": [
+  {
+  "id": 1,
+  "name": "Diablo IV",
+  "gift": "Pack Grimoire sinistre vermillon et lance-éclair vermillon",
+  "developer": "Blizzard Entertainment",
+  "image": "https://m.media-amazon.com/images/I/61+U4luBJzL.jpg",
+  "daysleft": 50
+  },
+  {
+  "id": 2,
+  "name": "Football Manager 2023",
+  "gift": "",
+  "developer": "SEGA",
+  "image": "https://m.media-amazon.com/images/I/71X6JkRNpuL.jpg",
+  "daysleft": 30
+  },
+  {
+  "id": 3,
+  "name": "League of Legends",
+  "gift": "Giga Darius Emote",
+  "developer": "Riot games",
+  "image": "https://m.media-amazon.com/images/I/61HL6+lLpIL.jpg",
+  "daysleft": 15
+  },
+  {
+  "id": 4,
+  "name": "Teamfight Tactics",
+  "gift": "Bas les pattes",
+  "developer": "Riot games",
+  "image": "https://m.media-amazon.com/images/I/51z10h+yz1L.jpg",
+  "daysleft": 5
+  },
+  {
+  "id": 5,
+  "name": "Warframe",
+  "gift": "Armure Verv",
+  "developer": "Digital Extremes Inc",
+  "image": "https://m.media-amazon.com/images/I/51VrtdGD-iL.jpg",
+  "daysleft": 20
+  }
+  ],
+  "subscriptions": [
+  {
+  "name": "DVM_Medja",
+  "date": "Mon Sep 18 2023"
+  },
+  {
+  "name": "Nisqy",
+  "date": "Mon Sep 18 2023"
+  },
+  {
+  "name": "Mastu",
+  "date": "Mon Sep 18 2023"
+  },
+  {
+  "name": "grizzlyvgds",
+  "date": "Mon Sep 18 2023"
+  },
+  {
+  "name": "FreemanSensei",
+  "date": "Mon Sep 18 2023"
+  },
+  {
+  "name": "JLTomy",
+  "date": "Mon Sep 18 2023"
+  }
+  ],
+  "streamersfollowed": [
+  {
+  "name": "Kamet0",
+  "viewers": "52k",
+  "followers": "2,4M",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e12862d-a8d0-4df2-81aa-e2241022dc98-profile_image-150x150.jpg",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "Discussion",
+  "livetitle": "Blabla chillllllll",
+  "id": 1,
+  "followed": true
+  },
+  {
+  "name": "JLTomy",
+  "viewers": "6,9k",
+  "followers": "1,3M",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa2bc80a-e317-494a-a94d-7492889e4f66-profile_image-300x300.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "The Forest",
+  "livetitle": "Sacha pichon de retour",
+  "id": 2,
+  "followed": true
+  },
+  {
+  "name": "Faker",
+  "viewers": "3,7k",
+  "followers": "563k",
+  "profilepicture": "https://pbs.twimg.com/media/D2Q52o_U0AAvIA1.jpg",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "League of Legends",
+  "livetitle": "Hide on the bush",
+  "id": 3,
+  "followed": true
+  },
+  {
+  "name": "Domingo",
+  "viewers": "5,5k",
+  "followers": "350k",
+  "profilepicture": "https://yt3.googleusercontent.com/hHKj95QKTBQUOTfgHscrhFN4BObi0Cd1aGGEJWNDhpBT24yhojFzuRtX_w87Uch1-sBmMrvFlw=s900-c-k-c0x00ffffff-no-rj",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "Discussion",
+  "livetitle": "Pop corn de retour demain",
+  "id": 4,
+  "followed": true
+  },
+  {
+  "name": "Skyyart",
+  "viewers": "1,2k",
+  "followers": "346k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5287d16-d2c8-4a82-ad68-d621415d43f2-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "League of Legends",
+  "livetitle": "Skyyart CAST DES ASIANS GAME",
+  "id": 5,
+  "followed": true
+  },
+  {
+  "name": "GobGG",
+  "viewers": "556",
+  "followers": "91k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/d8d22812-b269-4dd0-b67a-3db0ecbc3ed3-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "League of Legends",
+  "livetitle": "Matinée chill",
+  "id": 6,
+  "followed": true
+  },
+  {
+  "name": "Aloonea",
+  "viewers": "856",
+  "followers": "13,9k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f07cee4-7f45-4a54-a0f4-bb591e596e4d-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "Discussion",
+  "livetitle": "Blabla chillllllll",
+  "id": 7,
+  "followed": true
+  },
+  {
+  "name": "leothecrackfn",
+  "viewers": "9,5k",
+  "followers": "34,6k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/95b89b1c-f752-4a46-9b51-3dff1e206afc-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "Fortnite",
+  "livetitle": "FNCS CASH CUP",
+  "id": 8,
+  "followed": true
+  },
+  {
+  "name": "otplol",
+  "viewers": "13,7k",
+  "followers": "72k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/787bd9dd-9367-45ed-a44d-d755427549b8-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "League of Legends",
+  "livetitle": "EUM MASTER",
+  "id": 9,
+  "followed": true
+  },
+  {
+  "name": "Kaatsup",
+  "viewers": "3,5k",
+  "followers": "56k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf71eda4-07f8-4062-b03b-20ab33a0f8d9-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "Nutella",
+  "livetitle": "Je test le nouveau jeu",
+  "id": 10,
+  "followed": true
+  },
+  {
+  "name": "Kailon",
+  "viewers": "58",
+  "followers": "3,7k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/f69f06a6-108f-4b77-9a3e-b335af8934df-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "Gemeotry Dash",
+  "livetitle": "Debrief Zlan",
+  "id": 11,
+  "followed": true
+  },
+  {
+  "name": "Squeezie",
+  "viewers": "36,9k",
+  "followers": "",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/df3e5800-b524-4c4e-87b0-8b3646d9185a-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "The Forest",
+  "livetitle": "Sacha pichon de retour",
+  "id": 12,
+  "followed": true
+  },
+  {
+  "name": "ZONGOLEDOZO",
+  "viewers": "305",
+  "followers": "",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/01051e5f-c8d3-4edc-a50b-e1483c22980e-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "League of Legends",
+  "livetitle": "Hide on the bush",
+  "id": 13,
+  "followed": true
+  },
+  {
+  "name": "Xari",
+  "viewers": "565",
+  "followers": "",
+  "profilepicture": "",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "Discussion",
+  "livetitle": "Pop corn de retour demain",
+  "id": 14,
+  "followed": true
+  },
+  {
+  "name": "Clix",
+  "viewers": "11,2k",
+  "followers": "",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f4129f6-3750-4c02-b7c8-c88a05064129-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "Fortnite",
+  "livetitle": "Skyyart CAST DES ASIANS GAME",
+  "id": 15,
+  "followed": true
+  }
+  ],
+  "streamersrecommanded": [
+  {
+  "name": "Gotaga",
+  "viewers": "9,2k",
+  "followers": "4,1M",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/69e324f6-fc7d-4131-89ed-227a955637cf-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotaga-440x248.jpg",
+  "livegame": "Fortnite",
+  "livetitle": "PEW PEW PEW SUR L'INCROYABLE JEU FORTNITE ft @mickalow",
+  "id": 1,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Talmo",
+  "viewers": "2,8k",
+  "followers": "679k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/22051dc2-a03c-44a0-b5c0-bffeb1014b80-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_talmo-440x248.jpg",
+  "livegame": "FIFA 24",
+  "livetitle": "!rediff TOP 500 MONDIAL UNREAL RANKED SOLO - @Talmo",
+  "id": 2,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Jolavanille",
+  "viewers": "55k",
+  "followers": "576k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b6632b-de1f-4923-80b5-7233496fd028-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_andilextv-440x248.jpg",
+  "livegame": "Fortnite",
+  "livetitle": "Matinée chill !sub !tiktok",
+  "id": 3,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Jirayalecochon",
+  "viewers": "4,7k",
+  "followers": "324k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/d842070e-6d5c-4f97-b55c-097b9e627f4a-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shyroboy-440x248.jpg",
+  "livegame": "Discussion",
+  "livetitle": "Blabla chillllllll",
+  "id": 4,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "WakzLoL",
+  "viewers": "2,6k",
+  "followers": "68,5k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/609872ce-c7d9-47ee-9557-75cdfee3dbc1-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jltomy-440x248.jpg",
+  "livegame": "TeamFight Tactics",
+  "livetitle": "FNCS CASH CUP",
+  "id": 5,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Sardoche",
+  "viewers": "23",
+  "followers": "568",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b1b9e13-5b9f-41ee-b375-54d3c6491bb2-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sardoche-440x248.jpg",
+  "livegame": "League of Legends",
+  "livetitle": "JE REPRENDS LEAGUE OF LEGENDS",
+  "id": 6,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Andilextv",
+  "viewers": "593",
+  "followers": "31,4k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dcd7289-6637-4bc9-b8f5-61bdcbe08b95-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_andilextv-440x248.jpg",
+  "livegame": "Waven",
+  "livetitle": "@andilextv - cash cup duo no build avec Nikof - !map !subgoal",
+  "id": 7,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "BMSJOEL",
+  "viewers": "903",
+  "followers": "96,5k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/cd9acec6-cb40-42d8-bd42-e0c587fa021a-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shyroboy-440x248.jpg",
+  "livegame": "Discussion",
+  "livetitle": "COMPET IVIORIENNE",
+  "id": 8,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Nikof",
+  "viewers": "4,6k",
+  "followers": "213k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/6be7dd51-05b0-4e38-a8b8-44a29702bf1f-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_grizzlyvgds-440x248.jpg",
+  "livegame": "Discussion",
+  "livetitle": "Fortnite chill",
+  "id": 9,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Doflamingoh2",
+  "viewers": "616",
+  "followers": "19,5k",
+  "profilepicture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jltomy-440x248.jpg",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tikyjr-440x248.jpg",
+  "livegame": "Discussion",
+  "livetitle": "Dofus chill",
+  "id": 10,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Shyroboy",
+  "viewers": "4,5k",
+  "followers": "1,3M",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/1974e808-2d77-448f-90c2-14794eaa83c9-profile_image-150x150.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sardoche-440x248.jpg",
+  "livegame": "Boxing",
+  "livetitle": "On regarde des vidéos !",
+  "id": 11,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Charles",
+  "viewers": "265",
+  "followers": "3,8k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/822107f1-03b9-4e6a-a434-bb863400772a-profile_image-50x50.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_charles-440x248.jpg",
+  "livegame": "Discussion",
+  "livetitle": "Rush final subathon",
+  "id": 12,
+  "followed": false,
+  "notification": false
+  }
+  ],
+  "streamersvalorant": [
+  {
+  "name": "Mushway",
+  "viewers": "1,5k",
+  "followers": "456k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f5799dd-7efe-41b0-9a13-44588c605476-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_charles-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "Mushway - best player",
+  "id": 1
+  },
+  {
+  "name": "Jbzzed",
+  "viewers": "12,8k",
+  "followers": "956k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/jbzzed-profile_image-3b2a4588b08af4b0-70x70.jpeg",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shahzam-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "Je suis trop fort",
+  "id": 2
+  },
+  {
+  "name": "benhz",
+  "viewers": "5,3k",
+  "followers": "13,8k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fbd5ce7-f2bf-4993-b21e-59612cdd3d81-profile_image-70x70.jpg",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lilith-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "i'm back babyyyyy",
+  "id": 3
+  },
+  {
+  "name": "Koumoo",
+  "viewers": "4,7k",
+  "followers": "96,9k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b3e0414-bc4c-40fb-a96f-c6adcc9ee805-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_charles-440x248.jpg",
+  "livegame": "Discussion",
+  "livetitle": "ouais ouais les garss",
+  "id": 4
+  },
+  {
+  "name": "skite",
+  "viewers": "2,6k",
+  "followers": "53,9k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcc9e8f2-c2f6-498c-acde-c859851d9919-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_s0mcs-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "VALORANT CASH CUP",
+  "id": 5
+  },
+  {
+  "name": "SLYClement",
+  "viewers": "523",
+  "followers": "97,3k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/9a6e58e5-2da6-47e4-a4ce-eb91a0d1572d-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "VALORANT",
+  "livetitle": "Map de morttt",
+  "id": 6
+  },
+  {
+  "name": "AnkamaLive",
+  "viewers": "620",
+  "followers": "9,5k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/7851a743-bfd7-4e27-a8c6-79ad0ed2ccc3-profile_image-70x70.jpg",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_grizzlyvgds-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "Pop corn de retour demain",
+  "id": 7
+  },
+  {
+  "name": "BruceGrannec",
+  "viewers": "2,8k",
+  "followers": "368k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/bdc4a4d7-2639-426a-8c73-5cbc4928c24a-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_talmo-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "J'arrête de jouer",
+  "id": 8
+  },
+  {
+  "name": "Jolavanille",
+  "viewers": "55k",
+  "followers": "503k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b6632b-de1f-4923-80b5-7233496fd028-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_andilextv-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "Matinée chill",
+  "id": 9
+  },
+  {
+  "name": "Jirayalecochon",
+  "viewers": "4,7k",
+  "followers": "297k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/d842070e-6d5c-4f97-b55c-097b9e627f4a-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shyroboy-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "Blabla chillllllll",
+  "id": 10
+  },
+  {
+  "name": "WakzLoL",
+  "viewers": "2,6k",
+  "followers": "120k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/609872ce-c7d9-47ee-9557-75cdfee3dbc1-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jltomy-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "FNCS CASH CUP",
+  "id": 11
+  },
+  {
+  "name": "Camelia",
+  "viewers": "23",
+  "followers": "68k",
+  "profilepicture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_talmo-440x248.jpg",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sardoche-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "EUM MASTER",
+  "id": 12
+  }
+  ],
+  "allstreamers": [
+  {
+  "name": "Mushway",
+  "viewers": "1,5k",
+  "followers": "456k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f5799dd-7efe-41b0-9a13-44588c605476-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_charles-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "Mushway - best player",
+  "id": 1,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Jbzzed",
+  "viewers": "12,8k",
+  "followers": "956k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/jbzzed-profile_image-3b2a4588b08af4b0-70x70.jpeg",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shahzam-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "Je suis trop fort",
+  "id": 2,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "benhz",
+  "viewers": "5,3k",
+  "followers": "13,8k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fbd5ce7-f2bf-4993-b21e-59612cdd3d81-profile_image-70x70.jpg",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lilith-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "i'm back babyyyyy",
+  "id": 3,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Koumoo",
+  "viewers": "4,7k",
+  "followers": "96,9k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b3e0414-bc4c-40fb-a96f-c6adcc9ee805-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_charles-440x248.jpg",
+  "livegame": "Discussion",
+  "livetitle": "ouais ouais les garss",
+  "id": 4,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "skite",
+  "viewers": "2,6k",
+  "followers": "53,9k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcc9e8f2-c2f6-498c-acde-c859851d9919-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_s0mcs-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "VALORANT CASH CUP",
+  "id": 5,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "SLYClement",
+  "viewers": "523",
+  "followers": "97,3k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/9a6e58e5-2da6-47e4-a4ce-eb91a0d1572d-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "VALORANT",
+  "livetitle": "Map de morttt",
+  "id": 6,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "AnkamaLive",
+  "viewers": "620",
+  "followers": "9,5k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/7851a743-bfd7-4e27-a8c6-79ad0ed2ccc3-profile_image-70x70.jpg",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_grizzlyvgds-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "Pop corn de retour demain",
+  "id": 7,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "BruceGrannec",
+  "viewers": "2,8k",
+  "followers": "368k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/bdc4a4d7-2639-426a-8c73-5cbc4928c24a-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_talmo-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "J'arrête de jouer",
+  "id": 8,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Jolavanille",
+  "viewers": "55k",
+  "followers": "503k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b6632b-de1f-4923-80b5-7233496fd028-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_andilextv-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "Matinée chill",
+  "id": 9,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Jirayalecochon",
+  "viewers": "4,7k",
+  "followers": "297k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/d842070e-6d5c-4f97-b55c-097b9e627f4a-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shyroboy-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "Blabla chillllllll",
+  "id": 10,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "WakzLoL",
+  "viewers": "2,6k",
+  "followers": "120k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/609872ce-c7d9-47ee-9557-75cdfee3dbc1-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jltomy-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "FNCS CASH CUP",
+  "id": 11,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Camelia",
+  "viewers": "23",
+  "followers": "68k",
+  "profilepicture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_talmo-440x248.jpg",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sardoche-440x248.jpg",
+  "livegame": "VALORANT",
+  "livetitle": "EUM MASTER",
+  "id": 12,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Gotaga",
+  "viewers": "9,2k",
+  "followers": "4,1M",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/69e324f6-fc7d-4131-89ed-227a955637cf-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotaga-440x248.jpg",
+  "livegame": "Fortnite",
+  "livetitle": "PEW PEW PEW SUR L'INCROYABLE JEU FORTNITE ft @mickalow",
+  "id": 13,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Talmo",
+  "viewers": "2,8k",
+  "followers": "679k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/22051dc2-a03c-44a0-b5c0-bffeb1014b80-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_talmo-440x248.jpg",
+  "livegame": "FIFA 24",
+  "livetitle": "!rediff TOP 500 MONDIAL UNREAL RANKED SOLO - @Talmo",
+  "id": 14,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Jolavanille",
+  "viewers": "55k",
+  "followers": "576k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/d7b6632b-de1f-4923-80b5-7233496fd028-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_andilextv-440x248.jpg",
+  "livegame": "Fortnite",
+  "livetitle": "Matinée chill !sub !tiktok",
+  "id": 15,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Jirayalecochon",
+  "viewers": "4,7k",
+  "followers": "324k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/d842070e-6d5c-4f97-b55c-097b9e627f4a-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shyroboy-440x248.jpg",
+  "livegame": "Discussion",
+  "livetitle": "Blabla chillllllll",
+  "id": 16,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "WakzLoL",
+  "viewers": "2,6k",
+  "followers": "68,5k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/609872ce-c7d9-47ee-9557-75cdfee3dbc1-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jltomy-440x248.jpg",
+  "livegame": "TeamFight Tactics",
+  "livetitle": "FNCS CASH CUP",
+  "id": 17,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Sardoche",
+  "viewers": "23",
+  "followers": "568",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b1b9e13-5b9f-41ee-b375-54d3c6491bb2-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sardoche-440x248.jpg",
+  "livegame": "League of Legends",
+  "livetitle": "JE REPRENDS LEAGUE OF LEGENDS",
+  "id": 18,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Andilextv",
+  "viewers": "593",
+  "followers": "31,4k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dcd7289-6637-4bc9-b8f5-61bdcbe08b95-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_andilextv-440x248.jpg",
+  "livegame": "Waven",
+  "livetitle": "@andilextv - cash cup duo no build avec Nikof - !map !subgoal",
+  "id": 19,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "BMSJOEL",
+  "viewers": "903",
+  "followers": "96,5k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/cd9acec6-cb40-42d8-bd42-e0c587fa021a-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shyroboy-440x248.jpg",
+  "livegame": "Discussion",
+  "livetitle": "COMPET IVIORIENNE",
+  "id": 20,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Nikof",
+  "viewers": "4,6k",
+  "followers": "213k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/6be7dd51-05b0-4e38-a8b8-44a29702bf1f-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_grizzlyvgds-440x248.jpg",
+  "livegame": "Discussion",
+  "livetitle": "Fortnite chill",
+  "id": 21,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Doflamingoh2",
+  "viewers": "616",
+  "followers": "19,5k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/3dcd7289-6637-4bc9-b8f5-61bdcbe08b95-profile_image-70x70.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tikyjr-440x248.jpg",
+  "livegame": "Discussion",
+  "livetitle": "Dofus chill",
+  "id": 22,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Sardoche",
+  "viewers": "4,5k",
+  "followers": "1,3M",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b1b9e13-5b9f-41ee-b375-54d3c6491bb2-profile_image-50x50.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sardoche-440x248.jpg",
+  "livegame": "Boxing",
+  "livetitle": "SARDOCHE - RETOUR",
+  "id": 23,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Charles",
+  "viewers": "265",
+  "followers": "3,8k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/822107f1-03b9-4e6a-a434-bb863400772a-profile_image-50x50.png",
+  "liveimg": "https://static-cdn.jtvnw.net/previews-ttv/live_user_charles-440x248.jpg",
+  "livegame": "Discussion",
+  "livetitle": "Rush final subathon",
+  "id": 24,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Kamet0",
+  "viewers": "52k",
+  "followers": "2,4M",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e12862d-a8d0-4df2-81aa-e2241022dc98-profile_image-150x150.jpg",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "Discussion",
+  "livetitle": "Blabla chillllllll",
+  "id": 25,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "JLTomy",
+  "viewers": "6,9k",
+  "followers": "1,3M",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa2bc80a-e317-494a-a94d-7492889e4f66-profile_image-300x300.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "The Forest",
+  "livetitle": "Sacha pichon de retour",
+  "id": 26,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Faker",
+  "viewers": "3,7k",
+  "followers": "563k",
+  "profilepicture": "https://pbs.twimg.com/media/D2Q52o_U0AAvIA1.jpg",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "League of Legends",
+  "livetitle": "Hide on the bush",
+  "id": 27,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Domingo",
+  "viewers": "5,5k",
+  "followers": "350k",
+  "profilepicture": "https://yt3.googleusercontent.com/hHKj95QKTBQUOTfgHscrhFN4BObi0Cd1aGGEJWNDhpBT24yhojFzuRtX_w87Uch1-sBmMrvFlw=s900-c-k-c0x00ffffff-no-rj",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "Discussion",
+  "livetitle": "Pop corn de retour demain",
+  "id": 28,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Skyyart",
+  "viewers": "1,2k",
+  "followers": "346k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5287d16-d2c8-4a82-ad68-d621415d43f2-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "League of Legends",
+  "livetitle": "Skyyart CAST DES ASIANS GAME",
+  "id": 29,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "GobGG",
+  "viewers": "556",
+  "followers": "91k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/d8d22812-b269-4dd0-b67a-3db0ecbc3ed3-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "League of Legends",
+  "livetitle": "Matinée chill",
+  "id": 30,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Aloonea",
+  "viewers": "856",
+  "followers": "13,9k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f07cee4-7f45-4a54-a0f4-bb591e596e4d-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "Discussion",
+  "livetitle": "Blabla chillllllll",
+  "id": 31,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "leothecrackfn",
+  "viewers": "9,5k",
+  "followers": "34,6k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/95b89b1c-f752-4a46-9b51-3dff1e206afc-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "Fortnite",
+  "livetitle": "FNCS CASH CUP",
+  "id": 32,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "otplol",
+  "viewers": "13,7k",
+  "followers": "72k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/787bd9dd-9367-45ed-a44d-d755427549b8-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "League of Legends",
+  "livetitle": "EUM MASTER",
+  "id": 33,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Kaatsup",
+  "viewers": "3,5k",
+  "followers": "56k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/cf71eda4-07f8-4062-b03b-20ab33a0f8d9-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "Nutella",
+  "livetitle": "Je test le nouveau jeu",
+  "id": 34,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Kailon",
+  "viewers": "58",
+  "followers": "3,7k",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/f69f06a6-108f-4b77-9a3e-b335af8934df-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "Gemeotry Dash",
+  "livetitle": "Debrief Zlan",
+  "id": 35,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Squeezie",
+  "viewers": "36,9k",
+  "followers": "",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/df3e5800-b524-4c4e-87b0-8b3646d9185a-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "The Forest",
+  "livetitle": "Sacha pichon de retour",
+  "id": 36,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "ZONGOLEDOZO",
+  "viewers": "305",
+  "followers": "",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/01051e5f-c8d3-4edc-a50b-e1483c22980e-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "League of Legends",
+  "livetitle": "Hide on the bush",
+  "id": 37,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Xari",
+  "viewers": "565",
+  "followers": "",
+  "profilepicture": "",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "Discussion",
+  "livetitle": "Pop corn de retour demain",
+  "id": 38,
+  "followed": false,
+  "notification": false
+  },
+  {
+  "name": "Clix",
+  "viewers": "11,2k",
+  "followers": "",
+  "profilepicture": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f4129f6-3750-4c02-b7c8-c88a05064129-profile_image-70x70.png",
+  "liveimg": "https://cdn.crispedge.com/43464b.png",
+  "livegame": "Fortnite",
+  "livetitle": "Skyyart CAST DES ASIANS GAME",
+  "id": 39,
+  "followed": false,
+  "notification": false
+  }
+  ]
+  }
+  

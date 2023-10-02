@@ -1,0 +1,120 @@
+:root {
+    --color1 : #18181b;
+   --color2 :  #1f1f23;
+   --color3: #adadb8;
+   --color4 : #efeff2;
+   --color5 : #BF94FF;
+   --color6: #9147ff;
+   --color7 : #772ce8;
+   --fontsize1 : 19px;
+   --fontweight1: 600;
+}
+/* #1f1f23 */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+  }
+
+
+a {
+    color: var(--color4);
+    text-decoration: none;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.isActive  {
+   
+    color: #BF94FF ;
+    border-bottom: 2px solid #BF94FF;
+}
+button {
+    cursor: pointer;
+}
+
+.separator {
+    border-top: 1px solid rgba(83,83,95,.48);
+    margin: 10px 0px
+}
+input {
+    border-radius: 5px;
+    border: 1px solid grey;
+    color: #dbdbe0;
+    box-sizing: border-box;
+    outline: none;
+    padding-left: 6px;
+    background-color: var(--color1);
+
+  }
+
+  input[type="text"]:focus {
+    border: 3px solid #bf94ff;
+  }
+
+  /* MODAL CSS */
+  .modalcontainer {
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+  
+  }
+  .overlay {
+    background-color: rgba(0, 0, 0, 0.85);
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+  }
+  .modalcontent {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: var(--color2);
+    width: 350px;
+    border-radius: 10px;
+    padding: 15px;
+    z-index: 5000;
+    max-height: 70vh;
+    overflow: auto;
+  }
+  .modalheader {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+  }
+  .modalheader img {
+    height: 50px;
+    border-radius: 50%;
+  }
+  .modalmid {
+    margin: 20px 0;
+  }
+  .modalfooter {
+    float: right;
+  }
+  .modalfooter button {
+    color: white;
+    padding: 7px;
+    background-color: var(--color6);
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+  .modalfooter button:hover {
+    background-color: var(--color7);
+  }
