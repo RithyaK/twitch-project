@@ -42,9 +42,10 @@ const Profil = () => {
 
   // render -----------------------------------------------
   return (
-    <div ref={menuProfileRef} onClick={() => setMenuProfile(!menuProfile)}>
+    <div ref={menuProfileRef}>
       {/* <p>{usernameTchatteur}</p> */}
       <img
+        onClick={() => setMenuProfile(!menuProfile)}
         src="https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-70x70.png"
         height="22px"
         width="22px"

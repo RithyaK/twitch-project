@@ -5,7 +5,6 @@ import { MdInsertEmoticon } from "react-icons/md";
 import { useChatContext } from "../../context/chatContext";
 import { useInfoContext } from "../../context/infoContext";
 import { useEffect, useRef, useState } from "react";
-/* eslint-disable */
 const Tchat = ({ conversation }) => {
   // states, données-----------------------------------------------
   const [

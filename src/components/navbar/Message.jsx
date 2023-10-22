@@ -94,24 +94,28 @@ const Message = () => {
           </div>
           <div>
             <ul className="conversations">
-              {conversations.map((conversation) => (
-                <li key={conversation.id} value={conversation}>
-                  <div
-                    className="profileandpseudo"
-                    onClick={() => displayConversation(conversation)}
-                  >
-                    <img
-                      className="profilepicture"
-                      src={conversation.picture}
+              {conversations
+                .filter((conversation) =>
+                  conversation.name.toLowerCase().includes(inputSearch)
+                )
+                .map((conversation) => (
+                  <li key={conversation.id} value={conversation}>
+                    <div
+                      className="profileandpseudo"
+                      onClick={() => displayConversation(conversation)}
+                    >
+                      <img
+                        className="profilepicture"
+                        src={conversation.picture}
+                      />
+                      {conversation.name}
+                    </div>
+                    <BsFillTrashFill
+                      className="trash"
+                      onClick={() => handleDeleteConversation(conversation)}
                     />
-                    {conversation.name}
-                  </div>
-                  <BsFillTrashFill
-                    className="trash"
-                    onClick={() => handleDeleteConversation(conversation)}
-                  />
-                </li>
-              ))}
+                  </li>
+                ))}
             </ul>
           </div>
         </div>

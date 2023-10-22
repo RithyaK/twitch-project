@@ -8,7 +8,7 @@ import {
 import { BsArrowUpRight } from "react-icons/bs";
 import { MdKeyboardBackspace } from "react-icons/md";
 import { NavLink, useParams } from "react-router-dom";
-import axios from "axios";
+// import axios from "axios";
 import styled from "styled-components";
 import { useInfoContext } from "../context/infoContext";
 import OptionsStreamer from "../components/main/home/OptionsStreamer";
@@ -41,6 +41,7 @@ const Streamer = () => {
 
   function followButton() {
     setFollow(!follow);
+    console.log("followButton");
     fetch(`http://localhost:3004/streamersrecommanded/${params.streamerid}`, {
       headers: {
         Accept: "application/json",
@@ -51,13 +52,20 @@ const Streamer = () => {
         followed: !follow,
       }),
     });
-    if (!follow) {
-      const name = streamerData.name;
-      let date = new Date();
-      console.log(date.toLocaleDateString());
-      axios.post(`http://localhost:3004/subscriptions`, {
-        name,
-        date,
+    // DONT WORK
+
+    if (follow === false) {
+      // const name = streamerData.name;
+      // let date = new Date();
+      // console.log(date.toLocaleDateString());
+      fetch(`http://localhost:3004/subscriptions`, {
+        headers: {
+          "Content-Type": "application/json",
+        },
+        method: "POST",
+        body: JSON.stringify({
+          TEST: "test",
+        }),
       });
     }
   }

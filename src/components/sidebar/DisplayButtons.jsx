@@ -1,4 +1,3 @@
-/* eslint-disable */
 import styled from "styled-components";
 
 const DisplayButtons = (props) => {

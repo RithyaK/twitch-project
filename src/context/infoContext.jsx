@@ -1,5 +1,4 @@
 import React, { useContext, useState } from "react";
-/* eslint-disable */
 const Context = React.createContext();
 
 export const InfoContextProvider = (props) => {

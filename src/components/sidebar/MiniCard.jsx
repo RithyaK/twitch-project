@@ -1,7 +1,6 @@
 import { NavLink } from "react-router-dom";
 import styled from "styled-components";
 import { useInfoContext } from "../../context/infoContext";
-/* eslint-disable */
 const Minicard = (props) => {
   // données
   const { setStreamerCategory } = useInfoContext();

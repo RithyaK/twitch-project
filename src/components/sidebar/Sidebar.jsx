@@ -1,19 +1,23 @@
 import { useEffect, useState } from "react";
-import styled from "styled-components";
+import styled, { createGlobalStyle } from "styled-components";
 import { BsArrowBarLeft, BsArrowDownUp } from "react-icons/bs";
 import Minicard from "./MiniCard";
 import DisplayButtons from "./DisplayButtons";
+import FilterButtons from "./FilterButtons";
 
 const Sidebar = () => {
   // state,donnée-----------------------------------------------
   // const [sidebar, setSidebar] = useState(true);
   const [streamersFollowedData, setStreamersFollowedData] = useState([]);
+  const [initialArr, setInitialArr] = useState([]);
+
   const [streamersRecommandedData, setStreamersRecommandedData] = useState([]);
   const [DisplayedFollowedStreamer, setDisplayedFollowedStreamer] =
     useState(11);
   const [DisplayedRecommandedStreamer, setDisplayedRecommandedStreamer] =
     useState(7);
-
+  const [forYou, setForYou] = useState(false);
+  const [alphabetically, setAlphabetically] = useState(false);
   // comportment-----------------------------------------------
   useEffect(() => {
     getStreamersFollowedData();
@@ -23,7 +27,10 @@ const Sidebar = () => {
   function getStreamersFollowedData() {
     fetch("http://localhost:3004/streamersfollowed")
       .then((res) => res.json())
-      .then((data) => setStreamersFollowedData(data));
+      .then((data) => {
+        setInitialArr(data);
+        setStreamersFollowedData(data);
+      });
   }
   function getStreamersRecommandedData() {
     fetch("http://localhost:3004/streamersrecommanded")
@@ -40,10 +47,35 @@ const Sidebar = () => {
       </div>
       <div className="containerfollowedchannels">
         <div className="followedchannels title">
-          <p>CHAINES SUIVIES</p>
-          <BsArrowDownUp />
+          <div>
+            <p>CHAINES SUIVIES</p>
+            {alphabetically && <p>Ordre alphabétique</p>}
+          </div>
+          <FilterButtons
+            initialArr={initialArr}
+            forYou={forYou}
+            setForYou={setForYou}
+            streamersFollowedData={streamersFollowedData}
+            alphabetically={alphabetically}
+            setAlphabetically={setAlphabetically}
+            setStreamersFollowedData={setStreamersFollowedData}
+          />
         </div>
         <div className="streamerlist followed">
+          {/* {alphabetically
+            ? streamersFollowedData
+                .toSorted((a, b) => a.name.localeCompare(b.name))
+                .map(
+                  (streamer) =>
+                    streamer.id <= DisplayedFollowedStreamer && (
+                      <Minicard
+                        key={streamer.id}
+                        streamer={streamer}
+                        category="followed"
+                      />
+                    )
+                )
+            :  */}
           {streamersFollowedData.map(
             (streamer) =>
               streamer.id <= DisplayedFollowedStreamer && (
@@ -107,10 +139,13 @@ const SidebarContainer = styled.div`
     font-size: 20px;
     height: 15px;
   }
+  .foryou svg:hover,
+  .containerfollowedchannels svg:hover {
+    cursor: pointer;
+  }
   .title {
     display: flex;
     justify-content: space-between;
-    font-weight: var(--fontweight1);
     font-size: 13px;
     margin: 10px 0;
   }
